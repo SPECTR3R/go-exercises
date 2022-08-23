@@ -1,4 +1,4 @@
-# Go exercisesç
+# Go exercises
 
 Some exercises i worked on to learn go
 
